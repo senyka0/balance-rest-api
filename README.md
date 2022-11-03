@@ -21,5 +21,5 @@ npm run prod
 ## API Request
 | Endpoint | HTTP Method | Description |
 | ------ | ------ | ------ |
-| /healthcheck	| GET |	Check if server is working |
-| /api/balance/:address |	GET	| Get address balance
+| https://balance-rest-api.onrender.com/healthcheck	| GET |	Check if server is working |
+| https://balance-rest-api.onrender.com/api/balance/:address |	GET	| Get address balance
